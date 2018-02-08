@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\admin\.android\build-cache\77ea83a13d1ac49e6e32ca12d1419adb89065079\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="F:\Android\FramesImage\app\build\intermediates\pre-dexed\debug\classes_a57f5c5299fab2c45ca83c627ca1998af75a6dc4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\admin\.android\build-cache\b435a04e02ab9a05c7056ebe7183db802eea71f7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="F:\Android\FramesImage\app\build\intermediates\pre-dexed\debug\classes_d8e92eeb0f284eccb933ba40f62576aabba3efe3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\admin\.android\build-cache\56d8d4f9919972d2e18e293dcab6c2ee1370f932\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="F:\Android\FramesImage\app\build\intermediates\pre-dexed\debug\classes_6228b7377f243479530df31e90e34cfd86e1f2d4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\admin\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="F:\Android\FramesImage\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_1c639d911dc03f01c3b4d67fafdcfc2598dbf173.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\admin\.android\build-cache\87a234de8d8259b7675971a90e6979860ddc36d3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="F:\Android\FramesImage\app\build\intermediates\pre-dexed\debug\classes_c873c78df8f7f338cb65172d5fa426b497577d7a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Android\FramesImage\app\libs\nineoldandroids-2.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="59f19e43354d32de831379c23ce03bb259a4c2b7">
+        <dex dex="F:\Android\FramesImage\app\build\intermediates\pre-dexed\debug\nineoldandroids-2.4.0_bcc58243f5d67f0bfc20ee70abb036623f50cabe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\admin\.android\build-cache\085aac5b69c20af7be5dcb483b62d09f5058c174\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="F:\Android\FramesImage\app\build\intermediates\pre-dexed\debug\classes_621064ca1fe6140d90561e58eee4b425523ba991.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\admin\.android\build-cache\5ceb1367dec9cf8801116e7504987e36d0a17bb1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="F:\Android\FramesImage\app\build\intermediates\pre-dexed\debug\classes_1f3276fa03c1a27daa33caadb663b22f7d342461.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\admin\.android\build-cache\5e5d4bfc576fe3960a9ba398397114420ce85e2b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="F:\Android\FramesImage\app\build\intermediates\pre-dexed\debug\classes_f933d4e67ded6cf89cfa1943934b956b044ad83b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\admin\.android\build-cache\031880e7293da5a9a0358c320cd26dd6bba758ec\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="F:\Android\FramesImage\app\build\intermediates\pre-dexed\debug\classes_047db0a198c0e348324c3ff905f110c9ccdea1b5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\admin\.android\build-cache\8c60443f5a32e89086c0bccf559ef7cb01518a47\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="F:\Android\FramesImage\app\build\intermediates\pre-dexed\debug\classes_4e8ac69a7f424f15355eb01bb7198611edcbb7e5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\admin\.android\build-cache\153a0fc26031cdeac6df1dba861ed53c7c1d11cb\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="F:\Android\FramesImage\app\build\intermediates\pre-dexed\debug\classes_7059e4703030302bf8be6ae7a03946de5fcf958b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Android\FramesImage\app\libs\devsmartlib.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8874ca4c8cc30152d52f3c81d404661bc715be16">
+        <dex dex="F:\Android\FramesImage\app\build\intermediates\pre-dexed\debug\devsmartlib_376ad9a5cad2f73bda3ed82962f48a77ecccb2c6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\admin\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="F:\Android\FramesImage\app\build\intermediates\pre-dexed\debug\picasso-2.5.2_f6db4f697fe5e87d59cfac24a349c3b36bfeebcb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\admin\.android\build-cache\500a19f8abcda15c737261bf69e06d7d19918b9f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="F:\Android\FramesImage\app\build\intermediates\pre-dexed\debug\classes_0e525b02404c895bd899b2c4311f890de551c348.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\admin\.android\build-cache\eab68f8fe69b23e42ddbb40d1b1cc67e56ed30c8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c0aa98db733d7b2b01e3ec52ea1c92d5379378fb">
+        <dex dex="F:\Android\FramesImage\app\build\intermediates\pre-dexed\debug\classes_a60e632365d745db9f111e7d4d0d80b3b465aa18.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\admin\.android\build-cache\12f6eeb1ebb9d7c56ac8d60c537d3e4f934f4d42\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="F:\Android\FramesImage\app\build\intermediates\pre-dexed\debug\classes_75c776ded2a58d7a4df67085d4df8e200195a684.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\admin\.android\build-cache\b01a3bf4aeede1ef95fc06a320133ae64e4e2574\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="F:\Android\FramesImage\app\build\intermediates\pre-dexed\debug\classes_e0121b76b5ae01206a0a91c57d52f62466a3cea7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\admin\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="F:\Android\FramesImage\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_8c87ef6b7aca19b9d99ff57c82ceb57bfc3c5935.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="wrap_content"
+	android:layout_height="wrap_content"
+	android:id="@+id/ambilwarna_viewContainer"
+	android:clipToPadding="false"
+	android:layout_gravity="center"
+>
+
+<com.example.admin.framesimage.AmbilWarnaSquare
+	android:id="@+id/ambilwarna_viewSatBri"
+	android:layout_width="240dp"
+	android:layout_height="240dp"
+	android:layerType="software"/>
+	<!--android:layout_toRightOf="@id/ambilwarna_state"/-->
+
+	<!-- needed because i can't get parent keeping its bottom layout
+	and its wrap_content height. This view will serve as a bottom spacer. -->
+	<View
+		android:layout_width="@dimen/ambilwarna_spacer"
+		android:layout_height="@dimen/ambilwarna_spacer"
+		android:layout_below="@id/ambilwarna_viewSatBri"
+	/>
+	<ImageView
+		android:id="@+id/ambilwarna_viewHue"
+		android:layout_width="@dimen/ambilwarna_hueWidth"
+		android:layout_height="@dimen/ambilwarna_hsvHeight"
+		android:layout_toRightOf="@id/ambilwarna_viewSatBri"
+		android:layout_marginLeft="@dimen/ambilwarna_spacer"
+		android:src="@drawable/ambilwarna_hue"
+		android:scaleType="fitXY"
+	/>
+
+    <ImageView
+            android:id="@+id/ambilwarna_alphaCheckered"
+            android:layout_width="@dimen/ambilwarna_hueWidth"
+            android:layout_height="@dimen/ambilwarna_hsvHeight"
+            android:layout_marginLeft="@dimen/ambilwarna_spacer"
+            android:layout_toRightOf="@id/ambilwarna_viewHue"
+            android:scaleType="fitXY"
+            android:src="@drawable/ambilwarna_alphacheckered_tiled" />
+
+    <View
+            android:id="@+id/ambilwarna_overlay"
+            android:layout_width="@dimen/ambilwarna_hueWidth"
+            android:layout_height="@dimen/ambilwarna_hsvHeight"
+            android:layout_marginLeft="@dimen/ambilwarna_spacer"
+            android:layout_toRightOf="@id/ambilwarna_viewHue" />
+
+    <ImageView
+		android:id="@+id/ambilwarna_cursor"
+		android:layout_width="9dp"
+		android:layout_height="9dp"
+		android:src="@drawable/ambilwarna_cursor"
+		android:scaleType="matrix" 
+		/>
+
+    <ImageView
+            android:id="@+id/ambilwarna_alphaCursor"
+            android:layout_width="9dp"
+            android:layout_height="9dp"
+            android:scaleType="matrix"
+            android:src="@drawable/ambilwarna_cursor" />
+
+    <ImageView
+		android:id="@+id/ambilwarna_target"
+		android:layout_width="15dp"
+		android:layout_height="15dp"
+		android:src="@drawable/ambilwarna_target"
+		android:scaleType="matrix"
+		 />
+		
+
+</RelativeLayout>

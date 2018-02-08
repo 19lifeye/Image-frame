@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    - <!--  Default screen margins, per the Android Design guidelines.
+  -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="thumbnail_size">80dp</dimen>
+    <dimen name="recycler_size">100dp</dimen>
+    <dimen name="thumbnail_horizontal_padding">8dp</dimen>
+    <dimen name="thumbnail_vertical_padding">10dp</dimen>
+    <dimen name="slidingmenu_offset">130dp</dimen>
+    <dimen name="shadow_width">15dp</dimen>
+    <integer name="num_cols">1</integer>
+
+    <dimen name="ambilwarna_hsvHeight">240dp</dimen>
+    <dimen name="ambilwarna_hsvWidth">240dp</dimen>
+    <dimen name="ambilwarna_hueWidth">30dp</dimen>
+    <dimen name="ambilwarna_spacer">8dp</dimen>
+    <dimen name="size_button">40dp</dimen>
+    <dimen name="size_button2">80dp</dimen>
+
+    <dimen name="btn_size">80dp</dimen>
+    <dimen name="btn_padding">30dp</dimen>
+</resources>
